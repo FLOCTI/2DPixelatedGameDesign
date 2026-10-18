@@ -1,0 +1,10 @@
+{
+  "description": "Enjoy a fast-paced 2D pixelated endless runner inspired by Subway Surfer, offering addictive gameplay and retro-style fun for casual gamers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
